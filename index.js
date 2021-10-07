@@ -5,7 +5,7 @@ const db = require("./config/db");
 const cors = require("cors");
 
 const app = express();
-const PORT = 9000;
+const PORT = 8080;
 
 // * * * * * * * * * * * * * * * * * * * *
 // Routers
